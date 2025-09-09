@@ -1,4 +1,3 @@
-// src/com/empresa/model/Funcionario.java
 package com.empresa.model;
 
 import java.math.BigDecimal;

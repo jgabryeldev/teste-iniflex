@@ -1,4 +1,3 @@
-// src/com/empresa/model/Pessoa.java
 package com.empresa.model;
 
 import java.time.LocalDate;
